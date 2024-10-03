@@ -1,0 +1,64 @@
+body {
+    margin: 0px;
+    background-color: #F5D04E;
+}
+
+.card {
+    width: 100%;
+    max-width: 400px;
+    height: 590px;
+    background-color: white;
+    position: absolute;
+    margin: auto;
+    inset: 0px;
+    border-radius: 4%;
+    box-shadow: 11px 9px 3px black;
+    border: 2px solid black;
+    padding: 1.5rem;
+
+
+}
+
+.image-1 {
+    width: 100%;
+    border-radius: 4%;
+
+}
+
+.button-sty {
+    max-width: 100px;
+    text-align: center;
+    background-color: #F5D04E;
+    padding: 0.7rem;
+    margin-top: 20px;
+    color: black;
+    font-weight: bold;
+    border-radius: 4%;
+}
+
+.card h3 {
+    font-family: "Figtree";
+    font-weight: 600;
+}
+
+.card h2 {
+    font-family: "Figtree";
+    font-weight: bold;
+}
+
+.h3-paragraph {
+    color: #7A7A7A;
+    font-family: "Figtree";
+    line-height: 1.8rem;
+}
+
+.d-h3 {
+    color: black;
+    font-family: "Figtree";
+    font-weight: bold;
+
+}
+
+.ph-h2 {
+    display: flex;
+}
